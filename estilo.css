@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    color: black;
+
+}
+h1{
+    font-size: 50px;
+    color: yellow;
+    background-color: darkolivegreen;
+    text-align: center;
+    margin-top: 100px;
+
+}
+p{
+    color: black;
+
+}
+#p1{
+    color: green;
+}
+span{
+    color: red;
+    font-size: 30px;
+    font-weight: 800;
+
+}
+button{
+    width: 100px;
+    height: 100px;
+    color: green;
+    font-size: 25px;
+    border-radius: 50px;
+    box-shadow: 40px 40px 2px;
+    border: none;
+    position: absolute;  
+    left: 1200px; 
+}
+button:hover{
+    background-color: whitesmoke;
+    color: yellowgreen;
+}
